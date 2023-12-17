@@ -1,0 +1,3 @@
+[workspace]
+members = ["listing_1-2"]
+resolver = "2"
